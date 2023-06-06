@@ -1,0 +1,12 @@
+C:\Users\marzi\Desktop\Basic_C#_Program\BranchingAssignment\BranchingAssignment\bin\Debug\netcoreapp3.1\BranchingAssignment.exe
+C:\Users\marzi\Desktop\Basic_C#_Program\BranchingAssignment\BranchingAssignment\bin\Debug\netcoreapp3.1\BranchingAssignment.deps.json
+C:\Users\marzi\Desktop\Basic_C#_Program\BranchingAssignment\BranchingAssignment\bin\Debug\netcoreapp3.1\BranchingAssignment.runtimeconfig.json
+C:\Users\marzi\Desktop\Basic_C#_Program\BranchingAssignment\BranchingAssignment\bin\Debug\netcoreapp3.1\BranchingAssignment.runtimeconfig.dev.json
+C:\Users\marzi\Desktop\Basic_C#_Program\BranchingAssignment\BranchingAssignment\bin\Debug\netcoreapp3.1\BranchingAssignment.dll
+C:\Users\marzi\Desktop\Basic_C#_Program\BranchingAssignment\BranchingAssignment\bin\Debug\netcoreapp3.1\BranchingAssignment.pdb
+C:\Users\marzi\Desktop\Basic_C#_Program\BranchingAssignment\BranchingAssignment\obj\Debug\netcoreapp3.1\BranchingAssignment.AssemblyInfoInputs.cache
+C:\Users\marzi\Desktop\Basic_C#_Program\BranchingAssignment\BranchingAssignment\obj\Debug\netcoreapp3.1\BranchingAssignment.AssemblyInfo.cs
+C:\Users\marzi\Desktop\Basic_C#_Program\BranchingAssignment\BranchingAssignment\obj\Debug\netcoreapp3.1\BranchingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\marzi\Desktop\Basic_C#_Program\BranchingAssignment\BranchingAssignment\obj\Debug\netcoreapp3.1\BranchingAssignment.dll
+C:\Users\marzi\Desktop\Basic_C#_Program\BranchingAssignment\BranchingAssignment\obj\Debug\netcoreapp3.1\BranchingAssignment.pdb
+C:\Users\marzi\Desktop\Basic_C#_Program\BranchingAssignment\BranchingAssignment\obj\Debug\netcoreapp3.1\BranchingAssignment.genruntimeconfig.cache
