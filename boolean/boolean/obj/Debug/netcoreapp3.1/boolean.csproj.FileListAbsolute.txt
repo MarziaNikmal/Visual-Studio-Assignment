@@ -1,0 +1,13 @@
+C:\Users\marzi\Desktop\Basic_C#_Program\boolean\boolean\bin\Debug\netcoreapp3.1\boolean.exe
+C:\Users\marzi\Desktop\Basic_C#_Program\boolean\boolean\bin\Debug\netcoreapp3.1\boolean.deps.json
+C:\Users\marzi\Desktop\Basic_C#_Program\boolean\boolean\bin\Debug\netcoreapp3.1\boolean.runtimeconfig.json
+C:\Users\marzi\Desktop\Basic_C#_Program\boolean\boolean\bin\Debug\netcoreapp3.1\boolean.runtimeconfig.dev.json
+C:\Users\marzi\Desktop\Basic_C#_Program\boolean\boolean\bin\Debug\netcoreapp3.1\boolean.dll
+C:\Users\marzi\Desktop\Basic_C#_Program\boolean\boolean\bin\Debug\netcoreapp3.1\boolean.pdb
+C:\Users\marzi\Desktop\Basic_C#_Program\boolean\boolean\obj\Debug\netcoreapp3.1\boolean.csproj.AssemblyReference.cache
+C:\Users\marzi\Desktop\Basic_C#_Program\boolean\boolean\obj\Debug\netcoreapp3.1\boolean.AssemblyInfoInputs.cache
+C:\Users\marzi\Desktop\Basic_C#_Program\boolean\boolean\obj\Debug\netcoreapp3.1\boolean.AssemblyInfo.cs
+C:\Users\marzi\Desktop\Basic_C#_Program\boolean\boolean\obj\Debug\netcoreapp3.1\boolean.csproj.CoreCompileInputs.cache
+C:\Users\marzi\Desktop\Basic_C#_Program\boolean\boolean\obj\Debug\netcoreapp3.1\boolean.dll
+C:\Users\marzi\Desktop\Basic_C#_Program\boolean\boolean\obj\Debug\netcoreapp3.1\boolean.pdb
+C:\Users\marzi\Desktop\Basic_C#_Program\boolean\boolean\obj\Debug\netcoreapp3.1\boolean.genruntimeconfig.cache
