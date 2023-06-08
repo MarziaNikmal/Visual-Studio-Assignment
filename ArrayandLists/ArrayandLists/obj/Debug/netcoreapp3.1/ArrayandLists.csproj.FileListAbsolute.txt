@@ -1,0 +1,13 @@
+C:\Users\marzi\Desktop\Basic_C#_Program\ArrayandLists\ArrayandLists\bin\Debug\netcoreapp3.1\ArrayandLists.exe
+C:\Users\marzi\Desktop\Basic_C#_Program\ArrayandLists\ArrayandLists\bin\Debug\netcoreapp3.1\ArrayandLists.deps.json
+C:\Users\marzi\Desktop\Basic_C#_Program\ArrayandLists\ArrayandLists\bin\Debug\netcoreapp3.1\ArrayandLists.runtimeconfig.json
+C:\Users\marzi\Desktop\Basic_C#_Program\ArrayandLists\ArrayandLists\bin\Debug\netcoreapp3.1\ArrayandLists.runtimeconfig.dev.json
+C:\Users\marzi\Desktop\Basic_C#_Program\ArrayandLists\ArrayandLists\bin\Debug\netcoreapp3.1\ArrayandLists.dll
+C:\Users\marzi\Desktop\Basic_C#_Program\ArrayandLists\ArrayandLists\bin\Debug\netcoreapp3.1\ArrayandLists.pdb
+C:\Users\marzi\Desktop\Basic_C#_Program\ArrayandLists\ArrayandLists\obj\Debug\netcoreapp3.1\ArrayandLists.csproj.AssemblyReference.cache
+C:\Users\marzi\Desktop\Basic_C#_Program\ArrayandLists\ArrayandLists\obj\Debug\netcoreapp3.1\ArrayandLists.AssemblyInfoInputs.cache
+C:\Users\marzi\Desktop\Basic_C#_Program\ArrayandLists\ArrayandLists\obj\Debug\netcoreapp3.1\ArrayandLists.AssemblyInfo.cs
+C:\Users\marzi\Desktop\Basic_C#_Program\ArrayandLists\ArrayandLists\obj\Debug\netcoreapp3.1\ArrayandLists.csproj.CoreCompileInputs.cache
+C:\Users\marzi\Desktop\Basic_C#_Program\ArrayandLists\ArrayandLists\obj\Debug\netcoreapp3.1\ArrayandLists.dll
+C:\Users\marzi\Desktop\Basic_C#_Program\ArrayandLists\ArrayandLists\obj\Debug\netcoreapp3.1\ArrayandLists.pdb
+C:\Users\marzi\Desktop\Basic_C#_Program\ArrayandLists\ArrayandLists\obj\Debug\netcoreapp3.1\ArrayandLists.genruntimeconfig.cache
