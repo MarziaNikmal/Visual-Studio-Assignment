@@ -1,0 +1,13 @@
+C:\Users\marzi\Desktop\Basic_C#_Program\MethodClass\MethodClass\bin\Debug\netcoreapp3.1\MethodClass.exe
+C:\Users\marzi\Desktop\Basic_C#_Program\MethodClass\MethodClass\bin\Debug\netcoreapp3.1\MethodClass.deps.json
+C:\Users\marzi\Desktop\Basic_C#_Program\MethodClass\MethodClass\bin\Debug\netcoreapp3.1\MethodClass.runtimeconfig.json
+C:\Users\marzi\Desktop\Basic_C#_Program\MethodClass\MethodClass\bin\Debug\netcoreapp3.1\MethodClass.runtimeconfig.dev.json
+C:\Users\marzi\Desktop\Basic_C#_Program\MethodClass\MethodClass\bin\Debug\netcoreapp3.1\MethodClass.dll
+C:\Users\marzi\Desktop\Basic_C#_Program\MethodClass\MethodClass\bin\Debug\netcoreapp3.1\MethodClass.pdb
+C:\Users\marzi\Desktop\Basic_C#_Program\MethodClass\MethodClass\obj\Debug\netcoreapp3.1\MethodClass.AssemblyInfoInputs.cache
+C:\Users\marzi\Desktop\Basic_C#_Program\MethodClass\MethodClass\obj\Debug\netcoreapp3.1\MethodClass.AssemblyInfo.cs
+C:\Users\marzi\Desktop\Basic_C#_Program\MethodClass\MethodClass\obj\Debug\netcoreapp3.1\MethodClass.csproj.CoreCompileInputs.cache
+C:\Users\marzi\Desktop\Basic_C#_Program\MethodClass\MethodClass\obj\Debug\netcoreapp3.1\MethodClass.dll
+C:\Users\marzi\Desktop\Basic_C#_Program\MethodClass\MethodClass\obj\Debug\netcoreapp3.1\MethodClass.pdb
+C:\Users\marzi\Desktop\Basic_C#_Program\MethodClass\MethodClass\obj\Debug\netcoreapp3.1\MethodClass.genruntimeconfig.cache
+C:\Users\marzi\Desktop\Basic_C#_Program\MethodClass\MethodClass\obj\Debug\netcoreapp3.1\MethodClass.csproj.AssemblyReference.cache
