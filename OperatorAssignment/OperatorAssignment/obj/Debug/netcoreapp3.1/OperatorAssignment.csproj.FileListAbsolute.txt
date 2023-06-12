@@ -1,0 +1,13 @@
+C:\Users\marzi\Desktop\Basic_C#_Program\OperatorAssignment\OperatorAssignment\bin\Debug\netcoreapp3.1\OperatorAssignment.exe
+C:\Users\marzi\Desktop\Basic_C#_Program\OperatorAssignment\OperatorAssignment\bin\Debug\netcoreapp3.1\OperatorAssignment.deps.json
+C:\Users\marzi\Desktop\Basic_C#_Program\OperatorAssignment\OperatorAssignment\bin\Debug\netcoreapp3.1\OperatorAssignment.runtimeconfig.json
+C:\Users\marzi\Desktop\Basic_C#_Program\OperatorAssignment\OperatorAssignment\bin\Debug\netcoreapp3.1\OperatorAssignment.runtimeconfig.dev.json
+C:\Users\marzi\Desktop\Basic_C#_Program\OperatorAssignment\OperatorAssignment\bin\Debug\netcoreapp3.1\OperatorAssignment.dll
+C:\Users\marzi\Desktop\Basic_C#_Program\OperatorAssignment\OperatorAssignment\bin\Debug\netcoreapp3.1\OperatorAssignment.pdb
+C:\Users\marzi\Desktop\Basic_C#_Program\OperatorAssignment\OperatorAssignment\obj\Debug\netcoreapp3.1\OperatorAssignment.csproj.AssemblyReference.cache
+C:\Users\marzi\Desktop\Basic_C#_Program\OperatorAssignment\OperatorAssignment\obj\Debug\netcoreapp3.1\OperatorAssignment.AssemblyInfoInputs.cache
+C:\Users\marzi\Desktop\Basic_C#_Program\OperatorAssignment\OperatorAssignment\obj\Debug\netcoreapp3.1\OperatorAssignment.AssemblyInfo.cs
+C:\Users\marzi\Desktop\Basic_C#_Program\OperatorAssignment\OperatorAssignment\obj\Debug\netcoreapp3.1\OperatorAssignment.csproj.CoreCompileInputs.cache
+C:\Users\marzi\Desktop\Basic_C#_Program\OperatorAssignment\OperatorAssignment\obj\Debug\netcoreapp3.1\OperatorAssignment.dll
+C:\Users\marzi\Desktop\Basic_C#_Program\OperatorAssignment\OperatorAssignment\obj\Debug\netcoreapp3.1\OperatorAssignment.pdb
+C:\Users\marzi\Desktop\Basic_C#_Program\OperatorAssignment\OperatorAssignment\obj\Debug\netcoreapp3.1\OperatorAssignment.genruntimeconfig.cache
