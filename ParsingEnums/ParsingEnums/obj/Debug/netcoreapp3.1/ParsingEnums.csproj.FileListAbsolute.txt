@@ -1,0 +1,13 @@
+C:\Users\marzi\Desktop\Basic_C#_Program\ParsingEnums\ParsingEnums\bin\Debug\netcoreapp3.1\ParsingEnums.exe
+C:\Users\marzi\Desktop\Basic_C#_Program\ParsingEnums\ParsingEnums\bin\Debug\netcoreapp3.1\ParsingEnums.deps.json
+C:\Users\marzi\Desktop\Basic_C#_Program\ParsingEnums\ParsingEnums\bin\Debug\netcoreapp3.1\ParsingEnums.runtimeconfig.json
+C:\Users\marzi\Desktop\Basic_C#_Program\ParsingEnums\ParsingEnums\bin\Debug\netcoreapp3.1\ParsingEnums.runtimeconfig.dev.json
+C:\Users\marzi\Desktop\Basic_C#_Program\ParsingEnums\ParsingEnums\bin\Debug\netcoreapp3.1\ParsingEnums.dll
+C:\Users\marzi\Desktop\Basic_C#_Program\ParsingEnums\ParsingEnums\bin\Debug\netcoreapp3.1\ParsingEnums.pdb
+C:\Users\marzi\Desktop\Basic_C#_Program\ParsingEnums\ParsingEnums\obj\Debug\netcoreapp3.1\ParsingEnums.csproj.AssemblyReference.cache
+C:\Users\marzi\Desktop\Basic_C#_Program\ParsingEnums\ParsingEnums\obj\Debug\netcoreapp3.1\ParsingEnums.AssemblyInfoInputs.cache
+C:\Users\marzi\Desktop\Basic_C#_Program\ParsingEnums\ParsingEnums\obj\Debug\netcoreapp3.1\ParsingEnums.AssemblyInfo.cs
+C:\Users\marzi\Desktop\Basic_C#_Program\ParsingEnums\ParsingEnums\obj\Debug\netcoreapp3.1\ParsingEnums.csproj.CoreCompileInputs.cache
+C:\Users\marzi\Desktop\Basic_C#_Program\ParsingEnums\ParsingEnums\obj\Debug\netcoreapp3.1\ParsingEnums.dll
+C:\Users\marzi\Desktop\Basic_C#_Program\ParsingEnums\ParsingEnums\obj\Debug\netcoreapp3.1\ParsingEnums.pdb
+C:\Users\marzi\Desktop\Basic_C#_Program\ParsingEnums\ParsingEnums\obj\Debug\netcoreapp3.1\ParsingEnums.genruntimeconfig.cache
