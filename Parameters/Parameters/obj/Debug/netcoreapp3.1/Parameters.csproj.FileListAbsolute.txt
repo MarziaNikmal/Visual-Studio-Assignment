@@ -1,0 +1,12 @@
+C:\Users\marzi\Desktop\Basic_C#_Program\Parameters\Parameters\bin\Debug\netcoreapp3.1\Parameters.exe
+C:\Users\marzi\Desktop\Basic_C#_Program\Parameters\Parameters\bin\Debug\netcoreapp3.1\Parameters.deps.json
+C:\Users\marzi\Desktop\Basic_C#_Program\Parameters\Parameters\bin\Debug\netcoreapp3.1\Parameters.runtimeconfig.json
+C:\Users\marzi\Desktop\Basic_C#_Program\Parameters\Parameters\bin\Debug\netcoreapp3.1\Parameters.runtimeconfig.dev.json
+C:\Users\marzi\Desktop\Basic_C#_Program\Parameters\Parameters\bin\Debug\netcoreapp3.1\Parameters.dll
+C:\Users\marzi\Desktop\Basic_C#_Program\Parameters\Parameters\bin\Debug\netcoreapp3.1\Parameters.pdb
+C:\Users\marzi\Desktop\Basic_C#_Program\Parameters\Parameters\obj\Debug\netcoreapp3.1\Parameters.AssemblyInfoInputs.cache
+C:\Users\marzi\Desktop\Basic_C#_Program\Parameters\Parameters\obj\Debug\netcoreapp3.1\Parameters.AssemblyInfo.cs
+C:\Users\marzi\Desktop\Basic_C#_Program\Parameters\Parameters\obj\Debug\netcoreapp3.1\Parameters.csproj.CoreCompileInputs.cache
+C:\Users\marzi\Desktop\Basic_C#_Program\Parameters\Parameters\obj\Debug\netcoreapp3.1\Parameters.dll
+C:\Users\marzi\Desktop\Basic_C#_Program\Parameters\Parameters\obj\Debug\netcoreapp3.1\Parameters.pdb
+C:\Users\marzi\Desktop\Basic_C#_Program\Parameters\Parameters\obj\Debug\netcoreapp3.1\Parameters.genruntimeconfig.cache
