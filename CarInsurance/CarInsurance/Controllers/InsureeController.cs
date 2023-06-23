@@ -124,65 +124,59 @@ namespace CarInsurance.Controllers
             base.Dispose(disposing);
         }
 
-        public ActionResult CalculateQuote(Insuree insuree)
+        public double CalculateQuote(Insuree insuree)
         {
-            decimal baseQuote = 50m;
-            decimal totalQuote = baseQuote;
+            // Start with a base of $50/month
+            double quote = 50;
 
-            // Age factor
-            if (insuree.Age <= 18)
+            // Calculate age based on the DateOfBirth property
+            int clientAge = DateTime.Now.Year - insuree.DateofBirth.Year;
+
+            // Apply age-based adjustments to the quote
+            if (clientAge <= 18)
             {
-                totalQuote += 100m;
+                quote += 100; // Add $100/month for users 18 or younger
             }
-            else if (insuree.Age >= 19 && insuree.Age <= 25)
+            else if (clientAge <= 25)
             {
-                totalQuote += 50m;
+                quote += 50; // Add $50/month for users aged 19 to 25
             }
             else
             {
-                totalQuote += 25m;
+                quote += 25; // Add $25/month for users 26 or older
             }
 
-            // Car year factor
+            // Adjust quote based on other factors
             if (insuree.CarYear < 2000 || insuree.CarYear > 2015)
-
             {
-                totalQuote += 25m;
+                quote += 25; // Add $25/month for car years outside the range
             }
 
-            // Car make and model factors
             if (insuree.CarMake == "Porsche")
             {
-                totalQuote += 25m;
+                quote += 25; // Add $25/month for Porsche make
 
                 if (insuree.CarModel == "911 Carrera")
                 {
-                    totalQuote += 25m;
+                    quote += 25; // Add an additional $25/month for 911 Carrera model
                 }
             }
 
-            // Speeding tickets factor
-            totalQuote += 10m * insuree.SpeedingTickets;
+            quote += 10 * insuree.SpeedingTicket; // Add $10/month per speeding ticket
 
-            // DUI factor
-            if (insuree.HasDUI)
+            if (insuree.DUI)
             {
-                totalQuote *= 1.25m;
+                quote *= 1.25; // Increase the quote by 25% for DUI
             }
 
-            // Coverage factor
-            if (insuree.CoverageType == "Full")
+            if (insuree.CoverageType)
             {
-                totalQuote *= 1.5m;
+                quote *= 1.5; // Increase the quote by 50% for full coverage
             }
 
-            // Round the quote to 2 decimal places
-            totalQuote = Math.Round(totalQuote, 2);
-
-            // Pass the calculated quote to the View
-            ViewBag.Quote = totalQuote;
-            return View();
+            return quote;
         }
+
 
         public ActionResult Admin()
         {
